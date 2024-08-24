@@ -91,6 +91,8 @@ const personas = [
     }
 ];
 
+// TIENEN HASTA LAS 21.23 para hacer estos ejercicios
+
 // 1) Generar 10 alert que salude a cada uno de las personas
 
 // 2) mostrar en consola el promedio de edad.
